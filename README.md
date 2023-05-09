@@ -1,9 +1,4 @@
-# Generating-Abstracts-of-research-papers-arXiv-using-pre-trained-transformers.
-This is the NLP Project 
-////////////////////////////////////////
-Introduction
-This project explores the task of generating abstracts for research papers using pre-trained transformers. The goal is to generate informative and concise summaries of research papers that can be used by researchers and academics to quickly identify relevant information and gain a deeper understanding of a paper's contribution.
-////////////////////////////////////////
+
 #  Generating Abstract of research papers(arXiv) using pretrained transformer (T5-Small)
 
 ## About the project
@@ -44,12 +39,7 @@ Rogue metric is chosen as the performance metric
 - [https://github.com/huggingface/notebooks/blob/main/examples/summarization.ipynb]
 - [https://colab.research.google.com/github/abhimishra91/transformers-tutorials/blob/master/transformers_summarization_wandb.ipynb]
 
-
-
-
-
-///////////////////////////////////////
-Conclusion
-This user documentation manual provides an overview of the project and instructions for installing and using the code. We hope that this project will be useful for researchers and academics who want to quickly summarize research papers and gain a deeper understanding of their contributions.
+## Conclusion
+- This user documentation manual provides an overview of the project and instructions for installing and using the code. We hope that this project will be useful for researchers and academics who want to quickly summarize research papers and gain a deeper understanding of their contributions.
 
 If you have any questions or feedback, please feel free to contact us through the project repository.
